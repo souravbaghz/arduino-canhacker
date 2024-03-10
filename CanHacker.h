@@ -65,7 +65,7 @@ class CanHacker {
         static const char BEL = 7;
         static const uint16_t TIMESTAMP_LIMIT = 0xEA60;
 
-        CAN_CLOCK canClock = MCP_16MHZ;
+        CAN_CLOCK canClock = MCP_8MHZ;
         bool _timestampEnabled = false;
         bool _listenOnly = false;
         bool _loopback = false;
