@@ -34,5 +34,5 @@ Implement communication with CAN bus via MCP2515 by CANHacker (lawicel) protocol
 Testes with Arduino Nano Only.
 
 ## Repository History
-- Original from [autowp](https://github.com/autowp/arduino-canhacker.git) Kudos to him :)
+- Originally from [autowp](https://github.com/autowp/arduino-canhacker.git) Kudos to him :)
 - Forked & Modified by [souravbaghz](https://github.com/souravbaghz/arduino-canhacker)
