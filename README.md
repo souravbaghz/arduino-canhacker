@@ -1,10 +1,9 @@
 # CANHacker CAN Adapter on Arduino Nano + MCP2515
 
-Use that [Library](https://github.com/autowp/arduino-mcp2515) to communicate with MCP2515
 
 ## Features
 
-Implement communication with CAN bus via MCP2515 by CanHacker (lawicel) protocol.
+Implement communication with CAN bus via MCP2515 by CANHacker (lawicel) protocol.
 
 - send & receive can frames
 - supports standart (11 bit) & extended (29 bit) frames
@@ -22,7 +21,7 @@ Implement communication with CAN bus via MCP2515 by CanHacker (lawicel) protocol
 
 ## Library Installation
 
-1. Install [MCP2515 Library](https://github.com/autowp/arduino-mcp2515)
+1. Install [MCP2515 Library](https://github.com/souravbaghz/arduino-mcp2515)
 2. Download the ZIP file from https://github.com/souravbaghz/arduino-canhacker/archive/master.zip
 3. From the Arduino IDE: Sketch -> Include Library... -> Add .ZIP Library...
 4. Restart the Arduino IDE to see the new "canhacker" library with examples
