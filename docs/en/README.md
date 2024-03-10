@@ -13,7 +13,7 @@ Implement communication with CAN bus via MCP2515 by CanHacker (lawicel) protocol
 - interface using [Stream](https://www.arduino.cc/en/Reference/Stream): ability to work with Serial, SoftwareSerial, Ethernet and other
 - supported can baudrates from 10Kbps up to 1Mbps
 - supported modules with different oscillators (8, 16, 20 MHZ), 8 MHZ is default, use setClock if your oscillator is not 8MHZ
-- support [CanHacker](http://www.mictronics.de/projects/usb-can-bus/) (application for Windows)
+- support [CanHacker](https://www.mictronics.de/img/2009/12/CANHackerV2.00.01.zip) (application for Windows)
 - support [CANreader](https://github.com/autowp/CANreader) (application for Android)
 
 ## Pins Connection
