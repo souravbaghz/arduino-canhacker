@@ -1,5 +1,5 @@
 <p align="center">
-  <img  width="500" src="doc/banner.png" />
+  <img  width="500" src="docs/banner.png" />
 </p>
 
 <h1 align="center"> <b>CANHacker</b></h1>
