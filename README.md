@@ -1,4 +1,4 @@
-# CanHacker (lawicel) CAN adapter on Arduino + MCP2515
+# CanHacker (lawicel) CAN adapter on Arduino + MCP2515 (8MHz)
 
 Use that [Library](https://github.com/autowp/arduino-mcp2515) to communicate with MCP2515
 
