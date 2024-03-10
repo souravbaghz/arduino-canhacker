@@ -1,3 +1,10 @@
+<p align="center">
+  <img  width="500" src="doc/banner.png" />
+</p>
+
+<h1 align="center"> <b>CANHacker</b></h1>
+<h2 align="center"><b>Arduino Nano based CAN Adapter</b></h3> 
+
 # CANHacker CAN Adapter on Arduino Nano + MCP2515
 
 
